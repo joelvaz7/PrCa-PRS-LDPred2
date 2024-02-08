@@ -13,4 +13,4 @@
 ## Data
 **All files can be found on the SMB drive**
 * UKBB PrCa data: //biolachance.biology.gatech.edu/projects/UKBB/PrCa_all
-* MaDCaP data:
+* MaDCaP data: //biolachance.biology.gatech.edu/projects/MADCaP_combined
